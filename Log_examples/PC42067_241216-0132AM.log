@@ -1,0 +1,239 @@
+START: For HP EliteDesk 800 G2 SFF
+
+SUCCESS: This Computer matches model HP EliteDesk 800 G2 SFF..
+
+STARTING: Collecting current BIOS configuration for: 
+SETTING: 'Asset Tracking Number'
+SETTING: 'After Power Loss'
+SETTING: 'UEFI Boot Options'
+SETTING: 'Legacy Boot Order'
+SETTING: 'Configure Legacy Support and Secure Boot'
+SETTING: 'Virtualization Technology (VTx)'
+SETTING: 'Virtualization Technology for Directed I/O (VTd)'
+SETTING: 'Wake On LAN'
+SETTING: 'Video Memory Size'
+SETTING: 'Password Minimum length'
+SETTING: 'At least one symbol is required in Administrator and User passwords'
+SETTING: 'At least one number is required in Administrator and User passwords'
+SETTING: 'At least one upper case character is required in Administrator and User passwords'
+SETTING: 'At least one lower case character is required in Administrator and User passwords'
+SETTING: 'Are spaces allowed in Administrator and User passwords?'
+SETTING: 'Clear password jumper'
+SETTING: 'Prompt for Admin password on F9 (Boot Menu)'
+SETTING: 'Prompt for Admin password on F11 (System Recovery)'
+SETTING: 'Prompt for Admin password on F12 (Network Boot)'
+SETTING: 'TPM Device'
+SETTING: 'TPM State'
+SETTING: 'Clear TPM'
+SETTING: 'TPM Activation Policy'
+SETTING: 'Verify Boot Block on every boot'
+SETTING: 'BIOS Data Recovery Policy'
+SETTING: 'Prompt on Network Controller Configuration Change'
+SETTING: 'Dynamic Runtime Scanning of Boot Block'
+SETTING: 'Intel Software Guard Extensions (SGX)'
+SETTING: 'System Management Command'
+SETTING: 'Startup Menu Delay (sec.)'
+SETTING: 'Fast Boot'
+SETTING: 'CD-ROM Boot'
+SETTING: 'USB Storage Boot'
+SETTING: 'Network (PXE) Boot'
+SETTING: 'Prompt on Memory Size Change'
+SETTING: 'Prompt on Fixed Storage Change'
+SETTING: 'Audio Alerts During Boot'
+SETTING: 'Import Custom Secure Boot keys'
+SETTING: 'Clear Secure Boot keys'
+SETTING: 'Reset Secure Boot keys to factory defaults'
+SETTING: 'Enable MS UEFI CA key'
+SETTING: 'Configure Storage Controller for RAID'
+SETTING: 'Turbo-boost'
+SETTING: 'Multi-processor'
+SETTING: 'PCI Express x16 Slot 1'
+SETTING: 'PCI Express x1 Slot 1'
+SETTING: 'PCI Express x1 Slot 2'
+SETTING: 'PCI Express x4 Slot 1'
+SETTING: 'Allow PCIe/PCI SERR# Interrupt'
+SETTING: 'Power Button Override'
+SETTING: 'Embedded LAN controller'
+SETTING: 'Dust Filter'
+SETTING: 'Audio Device'
+SETTING: 'Internal Speakers'
+SETTING: 'Increase Idle Fan Speed(%)'
+SETTING: 'Serial Port A'
+SETTING: 'Configure Option ROM Launch Policy'
+SETTING: 'Runtime Power Management'
+SETTING: 'Extended Idle Power States'
+SETTING: 'S5 Maximum Power Savings'
+SETTING: 'SATA Power Management'
+SETTING: 'PCI Express Power Management'
+SETTING: 'Power On from Keyboard Ports'
+SETTING: 'Unique Sleep State Blink Rates'
+SETTING: 'Active Management (AMT)'
+SETTING: 'USB Key Provisioning Support'
+SETTING: 'USB Redirection Support'
+SETTING: 'Unconfigure AMT on next boot'
+SETTING: 'SOL Terminal Emulation Mode'
+SETTING: 'Show Unconfigure ME Confirmation Prompt'
+SETTING: 'Verbose Boot Messages'
+SETTING: 'Watchdog Timer'
+SETTING: 'OS Watchdog Timer (min.)'
+SETTING: 'BIOS Watchdog Timer (min.)'
+SETTING: 'CIRA Timeout (min.)''
+INFO: Checking to see if settings are correct..
+
+SUCCESS: Setting 'Startup Menu Delay (sec.)' is correct, No Action Required
+
+SUCCESS: Setting 'Prompt on Fixed Storage Change' is correct, No Action Required
+
+SUCCESS: Setting 'Clear TPM' is correct, No Action Required
+
+SUCCESS: Setting 'Configure Storage Controller for RAID' is correct, No Action Required
+
+SUCCESS: Setting 'Runtime Power Management' is correct, No Action Required
+
+SUCCESS: Setting 'TPM State' is correct, No Action Required
+
+SUCCESS: Setting 'TPM Device' is correct, No Action Required
+
+SUCCESS: Setting 'PCI Express x16 Slot 1' is correct, No Action Required
+
+SUCCESS: Setting 'Audio Alerts During Boot' is correct, No Action Required
+
+SUCCESS: Setting 'PCI Express x1 Slot 1' is correct, No Action Required
+
+SUCCESS: Setting 'Audio Device' is correct, No Action Required
+
+SUCCESS: Setting 'UEFI Boot Options' is correct, No Action Required
+
+SUCCESS: Setting 'USB Storage Boot' is correct, No Action Required
+
+SUCCESS: Setting 'CD-ROM Boot' is correct, No Action Required
+
+SUCCESS: Setting 'Active Management (AMT)' is correct, No Action Required
+
+SUCCESS: Setting 'Clear password jumper' is correct, No Action Required
+
+SUCCESS: Setting 'Virtualization Technology (VTx)' is correct, No Action Required
+
+SUCCESS: Setting 'At least one number is required in Administrator and User passwords' is correct, No Action Required
+
+SUCCESS: Setting 'Legacy Boot Order' is correct, No Action Required
+
+SUCCESS: Setting 'PCI Express Power Management' is correct, No Action Required
+
+SUCCESS: Setting 'Multi-processor' is correct, No Action Required
+
+SUCCESS: Setting 'S5 Maximum Power Savings' is correct, No Action Required
+
+SUCCESS: Setting 'Serial Port A' is correct, No Action Required
+
+SUCCESS: Setting 'BIOS Watchdog Timer (min.)' is correct, No Action Required
+
+SUCCESS: Setting 'At least one symbol is required in Administrator and User passwords' is correct, No Action Required
+
+SUCCESS: Setting 'Turbo-boost' is correct, No Action Required
+
+SUCCESS: Setting 'Intel Software Guard Extensions (SGX)' is correct, No Action Required
+
+SUCCESS: Setting 'Allow PCIe/PCI SERR# Interrupt' is correct, No Action Required
+
+SUCCESS: Setting 'Prompt for Admin password on F11 (System Recovery)' is correct, No Action Required
+
+SUCCESS: Setting 'Configure Legacy Support and Secure Boot' is correct, No Action Required
+
+SUCCESS: Setting 'Clear Secure Boot keys' is correct, No Action Required
+
+SUCCESS: Setting 'USB Redirection Support' is correct, No Action Required
+
+SUCCESS: Setting 'Show Unconfigure ME Confirmation Prompt' is correct, No Action Required
+
+SUCCESS: Setting 'Power On from Keyboard Ports' is correct, No Action Required
+
+SUCCESS: Setting 'At least one upper case character is required in Administrator and User passwords' is correct, No Action Required
+
+SUCCESS: Setting 'SOL Terminal Emulation Mode' is correct, No Action Required
+
+SUCCESS: Setting 'Prompt for Admin password on F12 (Network Boot)' is correct, No Action Required
+
+SUCCESS: Setting 'After Power Loss' is correct, No Action Required
+
+SUCCESS: Setting 'Verbose Boot Messages' is correct, No Action Required
+
+SUCCESS: Setting 'Increase Idle Fan Speed(%)' is correct, No Action Required
+
+SUCCESS: Setting 'Unique Sleep State Blink Rates' is correct, No Action Required
+
+SUCCESS: Setting 'Prompt for Admin password on F9 (Boot Menu)' is correct, No Action Required
+
+SUCCESS: Setting 'Watchdog Timer' is correct, No Action Required
+
+SUCCESS: Setting 'Dust Filter' is correct, No Action Required
+
+SUCCESS: Setting 'Network (PXE) Boot' is correct, No Action Required
+
+SUCCESS: Setting 'PCI Express x4 Slot 1' is correct, No Action Required
+
+SUCCESS: Setting 'Prompt on Memory Size Change' is correct, No Action Required
+
+SUCCESS: Setting 'Virtualization Technology for Directed I/O (VTd)' is correct, No Action Required
+
+SUCCESS: Setting 'Embedded LAN controller' is correct, No Action Required
+
+SUCCESS: Setting 'Prompt on Network Controller Configuration Change' is correct, No Action Required
+
+SUCCESS: Setting 'Configure Option ROM Launch Policy' is correct, No Action Required
+
+SUCCESS: Setting 'System Management Command' is correct, No Action Required
+
+SUCCESS: Setting 'CIRA Timeout (min.)' is correct, No Action Required
+
+SUCCESS: Setting 'Internal Speakers' is correct, No Action Required
+
+SUCCESS: Setting 'Password Minimum length' is correct, No Action Required
+
+SUCCESS: Setting 'USB Key Provisioning Support' is correct, No Action Required
+
+SUCCESS: Setting 'Verify Boot Block on every boot' is correct, No Action Required
+
+SUCCESS: Setting 'TPM Activation Policy' is correct, No Action Required
+
+SUCCESS: Setting 'OS Watchdog Timer (min.)' is correct, No Action Required
+
+SUCCESS: Setting 'Enable MS UEFI CA key' is correct, No Action Required
+
+SUCCESS: Setting 'Are spaces allowed in Administrator and User passwords?' is correct, No Action Required
+
+SUCCESS: Setting 'PCI Express x1 Slot 2' is correct, No Action Required
+
+SUCCESS: Setting 'Wake On LAN' is correct, No Action Required
+
+SUCCESS: Setting 'Reset Secure Boot keys to factory defaults' is correct, No Action Required
+
+SUCCESS: Setting 'Fast Boot' is correct, No Action Required
+
+SUCCESS: Setting 'Video Memory Size' is correct, No Action Required
+
+SUCCESS: Setting 'Unconfigure AMT on next boot' is correct, No Action Required
+
+SUCCESS: Setting 'SATA Power Management' is correct, No Action Required
+
+SUCCESS: Setting 'Asset Tracking Number' is correct, No Action Required
+
+SUCCESS: Setting 'BIOS Data Recovery Policy' is correct, No Action Required
+
+SUCCESS: Setting 'At least one lower case character is required in Administrator and User passwords' is correct, No Action Required
+
+SUCCESS: Setting 'Extended Idle Power States' is correct, No Action Required
+
+SUCCESS: Setting 'Power Button Override' is correct, No Action Required
+
+SUCCESS: Setting 'Dynamic Runtime Scanning of Boot Block' is correct, No Action Required
+
+SUCCESS: Setting 'Import Custom Secure Boot keys' is correct, No Action Required
+
+INFO: Hardware Inventory triggered Successfully
+INFO: Machine Policy Retrieval & Evaluation cycle triggered Successfully
+INFO: Script took 00:00:55 to run.
+
+END: No BIOS changes required from the 75 checked.
+
+END: Script Completed
